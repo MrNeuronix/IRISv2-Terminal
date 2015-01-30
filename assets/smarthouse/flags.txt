@@ -1,0 +1,6 @@
+sample-rate 16000
+frame-size 25
+frame-shift 10
+acoustic-scale 0.066666667
+beam 20
+commands :6:7:8
