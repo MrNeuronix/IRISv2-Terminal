@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/IRISv2-Terminal.iml" filepath="$PROJECT_DIR$/IRISv2-Terminal.iml" />
+      <module fileurl="file://D:/YandexSpeechKit/YandexSpeechKit.iml" filepath="D:/YandexSpeechKit/YandexSpeechKit.iml" />
     </modules>
   </component>
 </project>

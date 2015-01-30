@@ -3,9 +3,6 @@
   <component name="FacetManager">
     <facet type="android" name="Android">
       <configuration>
-        <proGuardCfgFiles>
-          <file>file://$MODULE_DIR$/../android-sdk/tools/proguard/proguard-android.txt</file>
-        </proGuardCfgFiles>
         <option name="UPDATE_PROPERTY_FILES" value="true" />
       </configuration>
     </facet>
@@ -17,6 +14,9 @@
       <sourceFolder url="file://$MODULE_DIR$/gen" isTestSource="false" generated="true" />
     </content>
     <orderEntry type="inheritedJdk" />
+    <orderEntry type="library" name="libs-yandex" level="project" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="YandexSpeechKit" />
+    <orderEntry type="library" name="libs" level="project" />
   </component>
 </module>
